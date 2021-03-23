@@ -2,5 +2,10 @@
   "name": "normal-mesh",
   "description": "Normal Mesh XRPackage",
   "xr_type": "webxr-site@0.0.1",
-  "start_url": "index.glom"
+  "start_url": "index.glom",
+  "components": [
+    {
+      "type": "overrideMaterial"
+    }
+  ]
 }
